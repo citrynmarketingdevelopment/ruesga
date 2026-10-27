@@ -1,0 +1,26 @@
+[
+  {
+    "route": "/farming-operations/",
+    "status": "captured"
+  },
+  {
+    "route": "/winter-program/",
+    "status": "captured"
+  },
+  {
+    "route": "/contact-us/",
+    "status": "captured"
+  },
+  {
+    "route": "/our-history/",
+    "status": "captured"
+  },
+  {
+    "route": "/what-we-grow/",
+    "status": "captured"
+  },
+  {
+    "route": "/",
+    "status": "captured"
+  }
+]

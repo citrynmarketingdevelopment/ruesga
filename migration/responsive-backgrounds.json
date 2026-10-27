@@ -1,0 +1,22 @@
+{
+  "/assets/Watermelon-Hand-Grown-0ea554c362.webp": {
+    "small": "/assets/Watermelon-Hand-Grown-0ea554c362-mobile.webp",
+    "variable": "--photo-90a4633902"
+  },
+  "/assets/Webp-net-resizeimage-1-min-d2f1177e21.webp": {
+    "small": "/assets/Webp-net-resizeimage-1-min-d2f1177e21-mobile.webp",
+    "variable": "--photo-0931a39f1d"
+  },
+  "/assets/Agriculture-Tractor-b196383952.webp": {
+    "small": "/assets/Agriculture-Tractor-b196383952-mobile.webp",
+    "variable": "--photo-d7e15017a9"
+  },
+  "/assets/background-texture-de676c57bf.webp": {
+    "small": "/assets/background-texture-de676c57bf-mobile.webp",
+    "variable": "--photo-b343884d49"
+  },
+  "/assets/Watermelons-d253d9346f.webp": {
+    "small": "/assets/Watermelons-d253d9346f-mobile.webp",
+    "variable": "--photo-fcf6937d52"
+  }
+}

@@ -1,0 +1,38 @@
+[
+  {
+    "route": "/farming-operations/",
+    "name": "Farming Operations",
+    "title": "Farming Operations | Ruesga Farms",
+    "original": "https://ruesgafarms.com/farming-operations/"
+  },
+  {
+    "route": "/winter-program/",
+    "name": "Winter Program",
+    "title": "Winter Program | Ruesga Farms",
+    "original": "https://ruesgafarms.com/winter-program/"
+  },
+  {
+    "route": "/contact-us/",
+    "name": "Contact Us",
+    "title": "Contact Us | Ruesga Farms",
+    "original": "https://ruesgafarms.com/contact-us/"
+  },
+  {
+    "route": "/our-history/",
+    "name": "Our History",
+    "title": "Our History | Ruesga Farms",
+    "original": "https://ruesgafarms.com/our-history/"
+  },
+  {
+    "route": "/what-we-grow/",
+    "name": "What We Grow",
+    "title": "What We Grow | Ruesga Farms",
+    "original": "https://ruesgafarms.com/what-we-grow/"
+  },
+  {
+    "route": "/",
+    "name": "Home",
+    "title": "Ruesga Farms | Watermelon Farms Bean Farms",
+    "original": "https://ruesgafarms.com/"
+  }
+]

@@ -1,0 +1,239 @@
+{
+  "site": "ruesga",
+  "time": "2026-10-27T18:52:39.353Z",
+  "routes": [
+    {
+      "route": "/farming-operations/",
+      "status": 200,
+      "title": "Farming Operations | Ruesga Farms",
+      "description": "Learn about crop sustainability, grafting, worker responsibility and food safety at Ruesga Farms in San Vicente, Nayarit.",
+      "canonical": "https://ruesgafarms.com/farming-operations/",
+      "h1": 1,
+      "widths": [
+        {
+          "width": 1440,
+          "height": 1153,
+          "overflow": false,
+          "broken": []
+        },
+        {
+          "width": 768,
+          "height": 1905,
+          "overflow": false,
+          "broken": []
+        },
+        {
+          "width": 390,
+          "height": 1921,
+          "overflow": false,
+          "broken": []
+        }
+      ]
+    },
+    {
+      "route": "/winter-program/",
+      "status": 200,
+      "title": "Winter Program | Ruesga Farms",
+      "description": "Explore Ruesga Farms’ December–February winter watermelon program in San Vicente and Puerto Vallarta, Mexico, including seeded and seedless varieties.",
+      "canonical": "https://ruesgafarms.com/winter-program/",
+      "h1": 1,
+      "widths": [
+        {
+          "width": 1440,
+          "height": 1296,
+          "overflow": false,
+          "broken": []
+        },
+        {
+          "width": 768,
+          "height": 1946,
+          "overflow": false,
+          "broken": []
+        },
+        {
+          "width": 390,
+          "height": 1984,
+          "overflow": false,
+          "broken": []
+        }
+      ]
+    },
+    {
+      "route": "/contact-us/",
+      "status": 200,
+      "title": "Contact Us | Ruesga Farms",
+      "description": "Contact Ruesga Farms with questions about its produce, farming operations and winter watermelon program in San Vicente, Mexico.",
+      "canonical": "https://ruesgafarms.com/contact-us/",
+      "h1": 1,
+      "widths": [
+        {
+          "width": 1440,
+          "height": 1851,
+          "overflow": false,
+          "broken": []
+        },
+        {
+          "width": 768,
+          "height": 2008,
+          "overflow": false,
+          "broken": []
+        },
+        {
+          "width": 390,
+          "height": 2063,
+          "overflow": false,
+          "broken": []
+        }
+      ]
+    },
+    {
+      "route": "/our-history/",
+      "status": 200,
+      "title": "Our History | Ruesga Farms",
+      "description": "Read the history of Ruesga Farms, a family farm founded by Jose Ruesga in San Vicente, Nayarit, in the 1920s.",
+      "canonical": "https://ruesgafarms.com/our-history/",
+      "h1": 1,
+      "widths": [
+        {
+          "width": 1440,
+          "height": 1207,
+          "overflow": false,
+          "broken": []
+        },
+        {
+          "width": 768,
+          "height": 1695,
+          "overflow": false,
+          "broken": []
+        },
+        {
+          "width": 390,
+          "height": 1593,
+          "overflow": false,
+          "broken": []
+        }
+      ]
+    },
+    {
+      "route": "/what-we-grow/",
+      "status": 200,
+      "title": "What We Grow | Ruesga Farms",
+      "description": "Discover the crops grown by Ruesga Farms in San Vicente, Mexico, including watermelon, beans, stevia and corn.",
+      "canonical": "https://ruesgafarms.com/what-we-grow/",
+      "h1": 1,
+      "widths": [
+        {
+          "width": 1440,
+          "height": 1937,
+          "overflow": false,
+          "broken": []
+        },
+        {
+          "width": 768,
+          "height": 4679,
+          "overflow": false,
+          "broken": []
+        },
+        {
+          "width": 390,
+          "height": 3608,
+          "overflow": false,
+          "broken": []
+        }
+      ]
+    },
+    {
+      "route": "/",
+      "status": 200,
+      "title": "Ruesga Farms | Watermelon Farms Bean Farms",
+      "description": "Family farming in San Vicente, Nayarit, Mexico. Discover Ruesga Farms watermelons, beans, stevia, farming operations and winter watermelon program.",
+      "canonical": "https://ruesgafarms.com/",
+      "h1": 2,
+      "widths": [
+        {
+          "width": 1440,
+          "height": 3748,
+          "overflow": false,
+          "broken": []
+        },
+        {
+          "width": 768,
+          "height": 4953,
+          "overflow": false,
+          "broken": []
+        },
+        {
+          "width": 390,
+          "height": 4132,
+          "overflow": false,
+          "broken": []
+        }
+      ]
+    }
+  ],
+  "errors": [],
+  "externalResources": [],
+  "screenshots": [
+    "farming-operations_-1440.png",
+    "farming-operations_-768.png",
+    "farming-operations_-390.png",
+    "winter-program_-1440.png",
+    "winter-program_-768.png",
+    "winter-program_-390.png",
+    "contact-us_-1440.png",
+    "contact-us_-768.png",
+    "contact-us_-390.png",
+    "our-history_-1440.png",
+    "our-history_-768.png",
+    "our-history_-390.png",
+    "what-we-grow_-1440.png",
+    "what-we-grow_-768.png",
+    "what-we-grow_-390.png",
+    "home-1440.png",
+    "home-768.png",
+    "home-390.png"
+  ],
+  "links": [
+    {
+      "href": "/",
+      "status": 200
+    },
+    {
+      "href": "/winter-program/",
+      "status": 200
+    },
+    {
+      "href": "/what-we-grow/",
+      "status": 200
+    },
+    {
+      "href": "/farming-operations/",
+      "status": 200
+    },
+    {
+      "href": "/our-history/",
+      "status": 200
+    },
+    {
+      "href": "/contact-us/",
+      "status": 200
+    }
+  ],
+  "forms": [
+    {
+      "expected": 400,
+      "status": 400
+    },
+    {
+      "expected": 400,
+      "status": 400
+    }
+  ],
+  "navigation": [
+    {
+      "mobileOpened": true,
+      "mobileLinks": 5,
+      "escapeClosed": true
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "verifiedAt": "2026-10-27T19:03:03.281Z",
+  "buildId": "IF2kTTWFpRfn4Qg53kYzv",
+  "stack": "Next.js 16.4.3, React 19, TypeScript, vanilla CSS, Node.js 24",
+  "typecheck": "passed",
+  "lint": "passed",
+  "productionBuild": "passed",
+  "unitTests": {
+    "passed": 12,
+    "failed": 0
+  },
+  "productionDependencyVulnerabilities": 0,
+  "originalRoutes": 6,
+  "indexableRoutes": 6,
+  "localizedSourceAssets": 192,
+  "browserQA": {
+    "routes": 6,
+    "widths": [
+      1440,
+      768,
+      390
+    ],
+    "screenshots": 18,
+    "errors": []
+  },
+  "sourceReferenceCaptures": 6,
+  "wordPressRuntimeDependencies": [],
+  "clientSecretScan": {
+    "checkedAt": "2026-10-27T18:50:45.761Z",
+    "privateKeysChecked": 2,
+    "browserFilesChecked": 12,
+    "secretLeaks": 0
+  },
+  "forms": {
+    "serverValidation": "passed",
+    "mockedBrowserStates": "passed",
+    "turnstileServerTests": "passed",
+    "smtpProviderAccepted": true,
+    "recipient": "jose@ruesgafarms.com",
+    "inboxReceipt": "not verified",
+    "liveTurnstile": "blocked: matching public site key missing; production/preview widget hostnames must be configured"
+  },
+  "lighthouseMobile": {
+    "performance": 81,
+    "accessibility": 100,
+    "best-practices": 100,
+    "seo": 100
+  },
+  "lighthouseMetrics": {
+    "lcpMs": 4861.874099999999,
+    "cls": 0.01271994575329851
+  },
+  "inaccessibleSourceAssets": [],
+  "deployment": {
+    "independentVercelApplication": true,
+    "deployed": false,
+    "dnsChanged": false,
+    "wordpressTakenOffline": false,
+    "launchBlockedBy": [
+      "Missing public Turnstile site key and hostname verification",
+      "Recipient inbox receipt not independently confirmed"
+    ]
+  }
+}
