@@ -1,0 +1,39 @@
+{
+  "checkedAt": "2026-10-27T19:42:37.912Z",
+  "origin": "https://ruesgafarms.com",
+  "robots": {
+    "status": 200,
+    "text": "User-agent: *\nDisallow: /wp-admin/\nAllow: /wp-admin/admin-ajax.php\n\nSitemap: https://ruesgafarms.com/wp-sitemap.xml\n"
+  },
+  "sitemaps": [
+    {
+      "url": "https://ruesgafarms.com/wp-sitemap.xml",
+      "status": 200,
+      "recognized": true
+    },
+    {
+      "url": "https://ruesgafarms.com/wp-sitemap-posts-page-1.xml",
+      "status": 200,
+      "recognized": true
+    },
+    {
+      "url": "https://ruesgafarms.com/sitemap.xml",
+      "status": 200,
+      "recognized": true
+    },
+    {
+      "url": "https://ruesgafarms.com/sitemap_index.xml",
+      "status": 404,
+      "recognized": false
+    }
+  ],
+  "urls": [
+    "https://ruesgafarms.com/",
+    "https://ruesgafarms.com/contact-us/",
+    "https://ruesgafarms.com/farming-operations/",
+    "https://ruesgafarms.com/our-history/",
+    "https://ruesgafarms.com/what-we-grow/",
+    "https://ruesgafarms.com/winter-program/"
+  ],
+  "errors": []
+}

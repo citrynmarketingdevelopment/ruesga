@@ -1,0 +1,6 @@
+User-Agent: *
+Allow: /
+Disallow: /wp-admin/
+Disallow: /api/
+
+Sitemap: https://ruesgafarms.com/sitemap.xml

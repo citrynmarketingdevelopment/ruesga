@@ -1,0 +1,14 @@
+{
+  "checkedAt": "2026-10-27T19:51:30.503Z",
+  "originalSitemapUrls": 6,
+  "replacementSitemapUrls": 6,
+  "missingPublicSourceUrls": [],
+  "intentionallyExcluded": [],
+  "additionalIndexableArchives": [],
+  "originalRobots": "User-agent: *\nDisallow: /wp-admin/\nAllow: /wp-admin/admin-ajax.php\n\nSitemap: https://ruesgafarms.com/wp-sitemap.xml\n",
+  "changes": [
+    "Preserve source crawl exclusions; disallow the new contact API.",
+    "Advertise one working HTTPS sitemap; redirect old sitemap endpoints.",
+    "Preserve source modification dates and omit noindex legacy development pages."
+  ]
+}
